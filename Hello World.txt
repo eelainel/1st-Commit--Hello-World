@@ -1,0 +1,9 @@
+def hello():
+  
+	name=str(input("Hello, what is your name?"))
+  
+	return ("Hello, "+name+". Welcome to my humble page!");
+  
+
+
+print(hello())
